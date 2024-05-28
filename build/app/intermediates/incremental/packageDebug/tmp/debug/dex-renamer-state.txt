@@ -1,0 +1,4 @@
+#Tue May 28 09:38:23 BRT 2024
+base.0=/Users/victorpadovam/Documents/Desenvolvimento/Pessoais/adventure_ai/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
